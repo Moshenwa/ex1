@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "catBread": "American Wirehair",
+    "imageUrl": "https://www.purina.com/sites/g/files/auxxlc196/files/AmericanWirehair_body_6.jpg",
+    "from": "England",
+    "coat": "Medium",
+    "color": "Average, considered moderately talkative and an enthusiastic purrer",
+    "size": "Medium to large",
+    "friendly": true,
+    "description": "Intelligent and highly adaptable, the American Wirehair is an American original, with a completely unique wired coat."
+  },
+  {
+    "id": 1,
+    "catBread": "Cornish Rex",
+    "imageUrl": "https://www.purina.com/sites/g/files/auxxlc196/files/CornishRex_body_7.jpg",
+    "from": "England",
+    "coat": "Short, extremely soft and silky",
+    "color": "White, black, blue, red, cream, chocolate, lavender, silver, smoke and tabby",
+    "size": "Small to medium",
+    "friendly": true,
+    "description": "Bat-ed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
+  },
+  {
+    "id": 2,
+    "catBread": "Siamese",
+    "imageUrl": "https://www.purina.com/sites/g/files/auxxlc196/files/Siamese_body_7.jpg",
+    "from": "Siam (now Thailand) ",
+    "coat": "Short, fine, glossy",
+    "color": "Seal point, chocolate point, blue point, lilac point",
+    "size": "Medium",
+    "friendly": true,
+    "description": "Siamese Cats are incredibly social, intelligent and vocal—they’ll talk to anyone who wants to listen, and even those who don’t. They also play well with other cats, dogs and children. In fact, they thrive on companionship, so it’s a good idea to get them a playmate to interact with throughout the day. Although they’re active and curious, they also love curling up on their human’s lap or snuggling up next to them in bed."
+  },
+  {
+    "id": 3,
+    "catBread": "British Shorthair",
+    "imageUrl": "https://www.purina.com/sites/g/files/auxxlc196/files/BritishShorthair_body_6.jpg",
+    "from": "England",
+    "coat": "Short, plush, dense",
+    "color": "Blue, white, black, red, cream, smoke, silver and golden",
+    "size": "Medium to large ",
+    "friendly": true,
+    "description": "The British Shorthair is an easygoing feline. She enjoys affection but isn’t needy and dislikes being carried. She’ll follow you from room to room, though, out of curiosity. British Shorthairs aren’t lap cats, but they do enjoy snuggling next to their people on the couch"
+  },
+  {
+    "id": 4,
+    "catBread": "Persian",
+    "imageUrl": "https://www.purina.com/sites/g/files/auxxlc196/files/PersianSolid_body_6.jpg",
+    "from": "England",
+    "coat": "Long, thick, glossy",
+    "color": "White, blue, black, red, cream, chocolate, lilac",
+    "size": "Medium to large",
+    "friendly": false,
+    "description": "The docile Persian is a quiet feline who enjoys a calm and relaxing environment. Although she enjoys sitting in her humans’ laps and being pet, she’s just as happy to sit and observe everyone’s comings and goings from afar. Persians are independent and selective in who they show affection to."
+  }
+]
